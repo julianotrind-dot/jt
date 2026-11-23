@@ -1,0 +1,5 @@
+cliente,email,descricao,valor,vencimento,status
+Cliente Exemplo A,cliente.a@exemplo.com,Parcela 2/6 – ação revisional,1500.00,2026-11-05,aberto
+Cliente Exemplo B,cliente.b@exemplo.com,Entrada – inventário,4000.00,2026-11-15,aberto
+Cliente Exemplo C,cliente.c@exemplo.com,Parcela 1/3 – trabalhista,2000.00,2026-11-27,aberto
+Cliente Exemplo D,cliente.d@exemplo.com,Parcela 3/6 – família,1200.00,2026-11-10,pago

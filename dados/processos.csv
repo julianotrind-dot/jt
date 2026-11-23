@@ -1,0 +1,6 @@
+processo,cliente,ato,data_intimacao,prazo_dias_uteis,responsavel,status
+0001234-56.2026.8.21.0001,Cliente Exemplo A,Contestação,2026-11-03,15,Dr. Juliano,aberto
+0007890-12.2026.8.21.0001,Cliente Exemplo B,Réplica,2026-11-12,15,Dr. Juliano,aberto
+0004567-89.2026.8.13.0145,Cliente Exemplo C,Recurso de apelação,2026-11-16,15,Dr. Juliano,aberto
+0002222-33.2026.8.21.0001,Cliente Exemplo D,Manifestação sobre laudo,2026-11-17,5,Dr. Juliano,aberto
+0003333-44.2026.8.21.0001,Cliente Exemplo E,Embargos de declaração,2026-11-10,5,Dr. Juliano,cumprido
